@@ -20,7 +20,7 @@ spec:
     - car-api
   source:
     type: github
-    target: https://github.com/username/car-api
+    target: https://github.com/faiz-kpit/car-api
   health:
     type: url
     target: http://localhost:5000/api/v1/cars
